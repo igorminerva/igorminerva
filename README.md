@@ -3,7 +3,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/igor-minerva-9a0336265/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png" />
 </a>
-<a target="_blank" href="igorminerva81@gmail.com">
+<a target="_blank" href="mailto:igorminerva81@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" />
 </a>
 <br>
