@@ -23,3 +23,4 @@ About me:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </h2>
+[![An image of @igorminerva's Holopin badges](https://holopin.me/igorminerva)](https://holopin.io/@igorminerva)
