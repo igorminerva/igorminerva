@@ -12,20 +12,20 @@
 <h3 align="center">About me:</h3>
 
 <p align="center">
-  🔭 I’m currently studying at Instituto Federal de Santa Catarina (IFSC)<br>
-  🌱 I’m currently learning Computer Science<br>
+  🔭 I’m currently studying computer science at Instituto Federal de Santa Catarina (IFSC)<br>
   👯 I’m looking for a job to start my experience<br>
-  😄 Pronouns: He/Him<br>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40">
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40">
   <img alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40">
-  <img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40">
   <img alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40">
+  <img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40">
+  <img alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40">
+  <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40">
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40">
 </p>
 
 <p align="center">
