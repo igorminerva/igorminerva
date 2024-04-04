@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Igor Minerva 👋</h1>
+<h1 >Hi there, I'm Igor Minerva 👋</h1>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/igor-minerva-9a0336265/">
     <img align="center" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png" />
   </a>
@@ -9,16 +9,16 @@
   </a>
 </p>
 
-<h3 align="center">About me:</h3>
+<h3 >About me:</h3>
 
-<p align="center">
+<p >
   🔭 I’m currently studying computer science at Instituto Federal de Santa Catarina (IFSC)<br>
   👯 I’m looking for a job to start my experience<br>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 >Languages and Tools:</h3>
 
-<p align="center">
+<p >
   <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40">
   <img alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40">
   <img alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40">
