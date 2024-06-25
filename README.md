@@ -1,32 +1,30 @@
-<h1 >Hi there, I'm Igor Minerva 👋</h1>
+# Hi there, I'm Igor Minerva 👋
 
-<p>
-  <a href="https://www.linkedin.com/in/igor-minerva-9a0336265/">
-    <img align="center" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/800px-LinkedIn_icon.svg.png" />
-  </a>
-  <a href="mailto:igorminerva81@gmail.com">
-    <img align="center" alt="Email" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" />
-  </a>
-</p>
+## 📫 Get in Touch
 
-<h3 >About me:</h3>
+- **Email**: [igorminerva81@gmail.com](mailto:igorminerva81@gmail.com.com)
+- **LinkedIn**: [Igor Minerva](https://www.linkedin.com/in/igor-minerva-9a0336265/)
 
-<p >
-  🔭 I’m currently studying computer science at Instituto Federal de Santa Catarina (IFSC)<br>
-  👯 I’m looking for a job to start my experience<br>
-</p>
+## About me:
+🔭 I’m currently studying computer science at Instituto Federal de Santa Catarina (IFSC)<br>
+👯 I’m looking for a job to start my experience<br>
 
-<h3 >Languages and Tools:</h3>
+## Languages and Tools: 
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
-<p >
-  <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40">
-  <img alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="40">
-  <img alt="MySQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="40">
-  <img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40">
-  <img alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40">
-  <img alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="40">
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40">
-</p>
+## 📈 GitHub Stats
+
+![igorminerva's Stats](https://github-readme-stats.vercel.app/api?username=igorminerva&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+![igorminerva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorminerva&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 <p align="center">
   <a href="https://holopin.io/@igorminerva">
