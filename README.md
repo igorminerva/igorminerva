@@ -6,7 +6,7 @@
 - **LinkedIn**: [Igor Minerva](https://www.linkedin.com/in/igor-minerva-9a0336265/)
 
 ## About me:
-🔭 I’m currently studying computer science at Instituto Federal de Santa Catarina (IFSC)<br>
+🔭 I’m a former computer science student at Instituto Federal de Santa Catarina (IFSC)<br>
 👯 I’m looking for a job to start my experience<br>
 
 ## Languages and Tools: 
@@ -21,10 +21,6 @@
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
-## 📈 GitHub Stats
-
-![igorminerva's Stats](https://github-readme-stats.vercel.app/api?username=igorminerva&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![igorminerva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igorminerva&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 <p align="center">
   <a href="https://holopin.io/@igorminerva">
