@@ -1,15 +1,15 @@
 # Hi there, I'm Igor Minerva 👋
 
+## About Me
+🎓 Currently pursuing a **Master’s in Computer Science** at **Universidade Estadual de Londrina (UEL)**  
+🎓 Former Computer Science student at **Instituto Federal de Santa Catarina (IFSC)**  
+💼 Looking for opportunities to start my professional experience in the tech industry  
+
 ## 📫 Get in Touch
+- **Email**: [minerva.igor1@gmail.com](mailto:minerva.igor1@gmail.com)  
+- **LinkedIn**: [Igor Minerva](https://www.linkedin.com/in/igorminerva/)  
 
-- **Email**: [igorminerva81@gmail.com](mailto:igorminerva81@gmail.com.com)
-- **LinkedIn**: [Igor Minerva](https://www.linkedin.com/in/igor-minerva-9a0336265/)
-
-## About me:
-🔭 I’m a former computer science student at Instituto Federal de Santa Catarina (IFSC)<br>
-👯 I’m looking for a job to start my experience<br>
-
-## Languages and Tools: 
+## 🛠️ Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
@@ -21,9 +21,10 @@
 ![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
+---
 
 <p align="center">
   <a href="https://holopin.io/@igorminerva">
-    <img src="https://holopin.me/igorminerva" alt="@igorminerva's Holopin board" class="rounded-xl cursor-pointer grayscale-50 hover:grayscale-0 transform-gpu duration-200">
+    <img src="https://holopin.me/igorminerva" alt="@igorminerva's Holopin board">
   </a>
 </p>
