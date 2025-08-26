@@ -6,6 +6,7 @@
 💼 Looking for opportunities to start my professional experience in the tech industry  
 
 ## 📫 Get in Touch
+- **Website**: [Click here](https://igorminerva.github.io/)
 - **Email**: [minerva.igor1@gmail.com](mailto:minerva.igor1@gmail.com)  
 - **LinkedIn**: [Igor Minerva](https://www.linkedin.com/in/igorminerva/)  
 
