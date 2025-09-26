@@ -19,7 +19,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 ---
